@@ -1,0 +1,101 @@
+trackSelection = true
+refreshSearchWindowsInPlayMode = false
+fetchPreview = true
+defaultFlags = 0
+keepOpen = false
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"last_search.8DF93126" = "library"
+	"OpenInspectorPreview.8DF93126" = "0"
+	"currentGroup.8DF93126" = null
+	"last_search.2567E822" = ""
+	"OpenInspectorPreview.2567E822" = "0"
+	"currentGroup.2567E822" = null
+	"last_search.98CF4AA6" = ""
+	"OpenInspectorPreview.98CF4AA6" = "0"
+	"currentGroup.98CF4AA6" = "scene"
+	"last_search.957775A5" = ""
+	"OpenInspectorPreview.957775A5" = "0"
+	"currentGroup.957775A5" = null
+	"picker_window_position_offset.768FEAAC" = "780;-388,8;320;550,4"
+	"picker_search_text.768FEAAC" = ""
+	"last_search.768FEAAC" = ""
+	"OpenInspectorPreview.768FEAAC" = "0"
+	"currentGroup.768FEAAC" = "sassets"
+	"last_search.45C55C1A" = "exit_grey t:Texture2D"
+	"OpenInspectorPreview.45C55C1A" = "0"
+	"currentGroup.45C55C1A" = "all"
+}
+providers = {
+	adb = {
+		active = false
+		priority = 2500
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	profilermarkers = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	presets_provider = {
+		active = false
+		priority = -10
+		defaultAction = null
+	}
+}
+objectSelectors = {
+}
+recentSearches = [
+	"librar"
+	"build "
+]
+searchItemFavorites = [
+]
+savedSearchesSortOrder = 0
+showSavedSearchPanel = true
+hideTabs = false
+expandedQueries = [961552606]
+queryBuilder = true
+ignoredProperties = "id;name;classname;imagecontentshash"
+helperWidgetCurrentArea = "all"
+disabledIndexers = ""
+minIndexVariations = 2
+findProviderIndexHelper = true
